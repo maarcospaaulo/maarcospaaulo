@@ -10,3 +10,5 @@ SEO Technical Specialist
 Meu nome é Marcos Paulo Eugênio. 
 
 Sou programador desde 2017 e trabalho como Front-end Developer na Media.Monks Brasil.
+
+Já participei de grandes projetos como Nubank, Ifood, Netflix, Mitsubishi, Suzuki, Riachuelo, Banco BV, Natura, Leroy Merlin, entre outros.
