@@ -12,3 +12,5 @@ Meu nome é Marcos Paulo Eugênio.
 Sou programador e trabalho como Front-end Developer na Media.Monks Brasil.
 
 Já participei de grandes projetos como Nubank, Ifood, Netflix, Mitsubishi, Suzuki, Riachuelo, Banco BV, Natura, Leroy Merlin, entre outros.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maarcospaaulo&theme=github-compact&bg_color=151b23&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
