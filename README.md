@@ -1,5 +1,4 @@
-# Marcos Paulo Eugênio
-### Senior Front-end Developer
+# Senior Front-end Developer
 
 <div align="center">
 
